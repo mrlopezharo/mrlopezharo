@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+
+
+![Twitter URL](https://img.shields.io/twitter/url?label=Kotlin&logo=kotlin&style=social&url=mrlopezharo)
+
+
+
+
+
+
+
+
 <!--
 **mrlopezharo/mrlopezharo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
