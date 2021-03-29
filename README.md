@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, my name is Ricardo Lopez 
+
+Android developer JR
 
 
 
