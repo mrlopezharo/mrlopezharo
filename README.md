@@ -2,8 +2,7 @@
 
 
 
-![Twitter URL](https://img.shields.io/twitter/url?label=Kotlin&logo=kotlin&style=social&url=mrlopezharo)
-
+![Twitter URL](https://img.shields.io/twitter/url?label=Kotlin&logo=kotlin&style=social&url=https%3A%2F%2Fgithub.com%2Fmrlopezharo)
 
 
 
