@@ -8,7 +8,11 @@ Android developer JR
 ![Twitter URL](https://img.shields.io/twitter/url?label=Android&logo=Android&logoColor=green&style=social&url=https%3A%2F%2Fgithub.com%2Fmrlopezharo)
 ![Twitter URL](https://img.shields.io/twitter/url?label=Android%20Estudio&logo=Android-studio&logoColor=green&style=social&url=https%3A%2F%2Fgithub.com%2Fmrlopezharo)
 
+![Twitter URL](https://img.shields.io/twitter/url?label=Java&logo=Java&logoColor=orange&style=social&url=https%3A%2F%2Fgithub.com%2Fmrlopezharo)
+![Twitter URL](https://img.shields.io/twitter/url?label=Javascript&logo=Javascript&logoColor=yellow&style=social&url=https%3A%2F%2Fgithub.com%2Fmrlopezharo)
 
+![Twitter URL](https://img.shields.io/twitter/url?label=Firebase&logo=firebase&logoColor=yellow&style=social&url=https%3A%2F%2Fgithub.com%2Fmrlopezharo)
+![Twitter URL](https://img.shields.io/twitter/url?label=MySQL&logo=mysql&logoColor=blue&style=social&url=https%3A%2F%2Fgithub.com%2Fmrlopezharo)
 
 
 
