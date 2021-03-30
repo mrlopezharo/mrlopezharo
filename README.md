@@ -3,7 +3,7 @@
 Android developer JR
 
 
-
+### Skills:
 ![Twitter URL](https://img.shields.io/twitter/url?label=Kotlin&logo=kotlin&style=social&url=https%3A%2F%2Fgithub.com%2Fmrlopezharo)
 ![Twitter URL](https://img.shields.io/twitter/url?label=Android&logo=Android&logoColor=green&style=social&url=https%3A%2F%2Fgithub.com%2Fmrlopezharo)
 ![Twitter URL](https://img.shields.io/twitter/url?label=Android%20Estudio&logo=Android-studio&logoColor=green&style=social&url=https%3A%2F%2Fgithub.com%2Fmrlopezharo)
