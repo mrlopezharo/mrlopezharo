@@ -1,6 +1,6 @@
-### Hello, my name is Ricardo Lopez 
+# Hello, my name is Ricardo Lopez 
 
-# Android developer JR
+## Android developer JR
 
 
 ### Skills:
