@@ -1,6 +1,6 @@
 # Hello, my name is Ricardo Lopez 
 
-## Android developer
+## Software developer
 ![bannerGithub](https://user-images.githubusercontent.com/81579356/116949181-bb953600-ac3e-11eb-87c7-14393785c05e.png)
 
 ### Skills:
