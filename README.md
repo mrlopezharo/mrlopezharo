@@ -1,7 +1,7 @@
 # Hello, my name is Ricardo Lopez 
 
 ## Android developer
-
+![bannerGithub](https://user-images.githubusercontent.com/81579356/116949181-bb953600-ac3e-11eb-87c7-14393785c05e.png)
 
 ### Skills:
 ![Twitter URL](https://img.shields.io/twitter/url?label=Kotlin&logo=kotlin&style=social&url=https%3A%2F%2Fgithub.com%2Fmrlopezharo)
