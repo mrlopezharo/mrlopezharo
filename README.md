@@ -19,10 +19,6 @@ Currently I seek to generate as much knowledge as possible in mobile and web dev
 I am very excited!.
 
 
-<button type="button">Click Me!</button>
-
-
-
 <!--
 **mrlopezharo/mrlopezharo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
