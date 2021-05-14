@@ -8,6 +8,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-180d5b?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![CSS3](https://img.shields.io/badge/CSS-180d5b?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
 [![HTML5](https://img.shields.io/badge/html-180d5b?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![PHP](https://img.shields.io/badge/PHP-180d5b?style=for-the-badge&logo=PHP&logoColor=white&labelColor=101010)]()
 </br>
 
 #### Android:
