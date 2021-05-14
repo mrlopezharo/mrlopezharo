@@ -1,5 +1,5 @@
 # Hi there!
-![asd](https://user-images.githubusercontent.com/81579356/118330950-530f4a00-b4c5-11eb-9900-e2e791fc0591.png)
+![bannerGithub2](https://user-images.githubusercontent.com/81579356/118333409-e4cc8680-b4c8-11eb-8af4-2622db4ad6ec.png)
 
 ### Skills:
 #### Web:
