@@ -4,7 +4,7 @@
 ![bannerGithub](https://user-images.githubusercontent.com/81579356/116949181-bb953600-ac3e-11eb-87c7-14393785c05e.png)
 
 ### Skills:
-[![Firebase](https://img.shields.io/badge/React-180d5b?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+[![React](https://img.shields.io/badge/React-180d5b?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 ![Twitter URL](https://img.shields.io/twitter/url?label=Kotlin&logo=kotlin&style=social&url=https%3A%2F%2Fgithub.com%2Fmrlopezharo)
 ![Twitter URL](https://img.shields.io/twitter/url?label=Android&logo=Android&logoColor=green&style=social&url=https%3A%2F%2Fgithub.com%2Fmrlopezharo)
 ![Twitter URL](https://img.shields.io/twitter/url?label=Android%20Estudio&logo=Android-studio&logoColor=green&style=social&url=https%3A%2F%2Fgithub.com%2Fmrlopezharo)
