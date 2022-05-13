@@ -19,7 +19,7 @@
 
 #### More:
 [![Firebase](https://img.shields.io/badge/firebase-180d5b?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-[![Mysql](https://img.shields.io/badge/msql-180d5b?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![Mysql](https://img.shields.io/badge/mysql-180d5b?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 
 
