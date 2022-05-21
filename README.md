@@ -21,11 +21,16 @@
 [![AndroidStudio](https://img.shields.io/badge/android_studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
 
-#### More:
+#### Others:
 [![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![Mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![SQLserver](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=101010)]()
+[![postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010)]()
+[![visualstudio](https://img.shields.io/badge/visual_studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=101010)]()
+[![visualstudiocode](https://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
+[![sublimetext](https://img.shields.io/badge/sublimetext-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white&labelColor=101010)]()
+[![adobephotoshop](https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=101010)]()
 </br>
 
 
