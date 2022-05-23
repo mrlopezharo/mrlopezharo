@@ -15,7 +15,6 @@
 [![java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
-[![AndroidStudio](https://img.shields.io/badge/android_studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
 
 #### Others:
@@ -25,6 +24,7 @@
 [![SQLserver](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=101010)]()
 [![postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010)]()
 [![insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white&labelColor=101010)]()
+[![AndroidStudio](https://img.shields.io/badge/android_studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 [![visualstudio](https://img.shields.io/badge/visual_studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=101010)]()
 [![visualstudiocode](https://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
 [![sublimetext](https://img.shields.io/badge/sublime_text3-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white&labelColor=101010)]()
