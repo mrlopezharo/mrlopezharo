@@ -1,5 +1,5 @@
 # 始めましょう! (Let's start)
-![bannerGithub2](https://user-images.githubusercontent.com/81579356/118373751-95905f80-b575-11eb-9c86-986e537e3442.png)
+![bannergithub](https://user-images.githubusercontent.com/81579356/169859951-553e69f6-e97a-4c7e-ba86-8896a0f1bd4b.png)
 
 ### Skills:
 
