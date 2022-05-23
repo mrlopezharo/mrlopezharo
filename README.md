@@ -14,9 +14,6 @@
 [![c++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white&labelColor=101010)]()
 [![java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
-</br>
-
-#### Mobile:
 [![Kotlin](https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![AndroidStudio](https://img.shields.io/badge/android_studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
