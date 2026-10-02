@@ -1,10 +1,12 @@
 # Ricardo López
 
-### Senior Mobile Engineer | Android & iOS
+### Senior Software Engineer | Mobile · Web · Backend & AI
 
-Mobile Engineer with **6+ years of professional experience** and **30+ projects**, specializing in native Android and iOS development.
+Software Engineer with **6+ years of professional experience** and **30+ projects** across Mobile, Web, Backend and AI.
 
-I build, maintain and publish production applications, from architecture and UI development to API integration, persistence, testing, CI/CD and store releases.
+I design, build and ship production software across multiple platforms — from native Android and iOS applications to modern web products, backend services and AI-powered solutions.
+
+---
 
 ## 📱 Mobile Development
 
@@ -23,18 +25,6 @@ I build, maintain and publish production applications, from architecture and UI 
 
 ---
 
-## 🚀 Published Products
-
-I independently design, develop and publish mobile applications for Android and iOS.
-
-### Android
-[![Google Play](https://img.shields.io/badge/Google_Play-My_Apps-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=Rikhardt)
-
-### iOS
-[![App Store](https://img.shields.io/badge/App_Store-My_Apps-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/us/developer/martin-ricardo-lopez-haro/id6808667715)
-
----
-
 ## 🌐 Web Development
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -45,7 +35,38 @@ I independently design, develop and publish mobile applications for Android and 
 
 JavaScript · React · Vue 3 · Nuxt · Node.js · REST APIs
 
-### My websites
+---
+
+## ⚙️ Backend Development
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+Python · FastAPI · Node.js · REST APIs · API integrations · SQL · NoSQL
+
+---
+
+## 🤖 AI Engineering
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+LLM integrations · RAG · LangChain · AI Agents · AI-powered applications
+
+---
+
+## 🚀 Products
+
+I independently design, develop and publish software products across Mobile and Web.
+
+### 📱 Mobile Apps
+
+[![Google Play](https://img.shields.io/badge/Google_Play-View_My_Apps-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=Rikhardt)
+
+[![App Store](https://img.shields.io/badge/App_Store-View_My_Apps-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/us/developer/martin-ricardo-lopez-haro/id6808667715)
+
+### 🌐 Web Products
 
 [![ToolsRL](https://img.shields.io/badge/ToolsRL-Visit_Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://toolsrl.com/)
 
@@ -53,26 +74,20 @@ JavaScript · React · Vue 3 · Nuxt · Node.js · REST APIs
 
 ---
 
-## 🤖 Backend & AI
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-Python · FastAPI · LangChain · RAG · LLM integrations · AI Agents
-
----
-
-## 🛠 Tools
+## 🛠 Tools & Technologies
 
 Android Studio · Xcode · Git · Firebase · Postman · GitLab CI · Fastlane · Photoshop
 
 ---
 
-## 👨‍💻 About me
+## 👨‍💻 About Me
 
-- 📱 **6+ years** building mobile applications
+- 💻 **6+ years** of professional software development experience
 - 🚀 **30+ professional projects**
+- 📱 Native **Android & iOS** development
+- 🌐 Production experience with **Web applications**
 - 📦 Multiple applications published on **Google Play & App Store**
 - 🏗 Experience with **MVVM, Clean Architecture and modular applications**
+- ⚙️ Experience building **backend services and API integrations**
 - 🤖 Experience building products with **LLMs, RAG and AI agents**
-- 🌐 Mobile, Web and Backend development experience
+- 🚀 Experience taking products from development to **production and release**
