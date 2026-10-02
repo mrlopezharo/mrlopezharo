@@ -1,49 +1,78 @@
-# 始めましょう! (Let's start)
-![bannergithub](https://user-images.githubusercontent.com/81579356/169859951-553e69f6-e97a-4c7e-ba86-8896a0f1bd4b.png)
+# Ricardo López
 
-### Skills:
+### Senior Mobile Engineer | Android & iOS
 
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
-[![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white&labelColor=101010)]()
-[![Node](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![CSHARP](https://img.shields.io/badge/C_SHARP-239120?style=for-the-badge&logo=CSHARP&logoColor=white&labelColor=101010)]()
-[![c++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white&labelColor=101010)]()
-[![java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
-[![Kotlin](https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
-</br>
+Mobile Engineer with **6+ years of professional experience** and **30+ projects**, specializing in native Android and iOS development.
 
-#### Others:
-[![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-[![Mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
-[![SQLserver](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=101010)]()
-[![postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010)]()
-[![insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white&labelColor=101010)]()
-[![Composer](https://img.shields.io/badge/composer-885630?style=for-the-badge&logo=composer&logoColor=white&labelColor=101010)]()
-[![AndroidStudio](https://img.shields.io/badge/android_studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-[![visualstudio](https://img.shields.io/badge/visual_studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=101010)]()
-[![visualstudiocode](https://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
-[![sublimetext](https://img.shields.io/badge/sublime_text3-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white&labelColor=101010)]()
-[![adobephotoshop](https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=101010)]()
-</br>
+I build, maintain and publish production applications, from architecture and UI development to API integration, persistence, testing, CI/CD and store releases.
 
+## 📱 Mobile Development
 
-<!--
-**mrlopezharo/mrlopezharo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-Here are some ideas to get you started:
+**Android:** Kotlin · Java · Jetpack Compose · XML · MVVM · Clean Architecture · Room · DataStore · Retrofit · Hilt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**iOS:** Swift · SwiftUI · UIKit · Storyboards · URLSession · SPM
+
+**Mobile:** Firebase · Crashlytics · REST APIs · OAuth/OIDC · AdMob · In-App Purchases · Widgets · CI/CD · Fastlane
+
+---
+
+## 🚀 Published Products
+
+I independently design, develop and publish mobile applications for Android and iOS.
+
+### Android
+[![Google Play](https://img.shields.io/badge/Google_Play-My_Apps-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=Rikhardt)
+
+### iOS
+[![App Store](https://img.shields.io/badge/App_Store-My_Apps-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/us/developer/martin-ricardo-lopez-haro/id6808667715)
+
+---
+
+## 🌐 Web Development
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+JavaScript · React · Vue 3 · Nuxt · Node.js · REST APIs
+
+### My websites
+
+[![ToolsRL](https://img.shields.io/badge/ToolsRL-Visit_Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://toolsrl.com/)
+
+[![Movies RL](https://img.shields.io/badge/Movies_RL-Visit_Website-E50914?style=for-the-badge&logo=googlechrome&logoColor=white)](https://movies-rl.com/)
+
+---
+
+## 🤖 Backend & AI
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+Python · FastAPI · LangChain · RAG · LLM integrations · AI Agents
+
+---
+
+## 🛠 Tools
+
+Android Studio · Xcode · Git · Firebase · Postman · GitLab CI · Fastlane · Photoshop
+
+---
+
+## 👨‍💻 About me
+
+- 📱 **6+ years** building mobile applications
+- 🚀 **30+ professional projects**
+- 📦 Multiple applications published on **Google Play & App Store**
+- 🏗 Experience with **MVVM, Clean Architecture and modular applications**
+- 🤖 Experience building products with **LLMs, RAG and AI agents**
+- 🌐 Mobile, Web and Backend development experience
